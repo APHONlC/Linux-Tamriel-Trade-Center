@@ -32,7 +32,7 @@ Default "PortProton" Directory
 
 
 WHY DONT YOU MAKE IT SO THAT IT ALSO UPLOADS YOUR OWN DATA?
-> because I don't have a way to authenticate and upload "TamrielTradeCentrePrice" data to update your "own" guild listings on the TTC website without the need for the "exe" file or the Web Version which I have no Idea how their code works nor have access to the TTC servers where data are stored and synced on the website. but if I did I could have just created an SSH script to authenticate myself to the TTC server and securely transfer files aswell.
+> because I don't have a way to authenticate and upload "TamrielTradeCentrePrice" data to update your "own" guild listings on the TTC website without the need for the "exe" file or the Web Version which I have no Idea how their code works nor have access to the TTC servers where data are stored and synced on the website. but if I did "maybe" I could have just created an SSH script to authenticate myself either using separate credentials or the same credentials being used on the TTC server and then securely transfer files.
 
 
 © 2021 by APHONIC. All rights reserved
