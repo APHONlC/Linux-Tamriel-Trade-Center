@@ -31,6 +31,9 @@ Default "PortProton" Directory
 > "/home/$USER/PortWINE/PortProton/drive_c/users/steamuser/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre"
 
 
+FUTURE PLANS??
+> Figure out a way to authenticate and upload "TamrielTradeCentrePrice" data to update your "own" guild listings on the TTC website without the need for the "exe" file.
+
 
 © 2021 by APHONIC. All rights reserved
 
