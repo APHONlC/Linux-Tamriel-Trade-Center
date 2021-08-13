@@ -30,4 +30,4 @@ Default "PortProton" Directory
 
 © 2021 by APHONIC. All rights reserved
 
-This script was created using content and materials from Tamriel Trade Center © 2015 by Steven Chen All rights reserved and The Elder Scrolls® Online: Tamriel Unlimited™ © ZeniMax® Online Studios, LLC or its licensors. I am not affiliated with Tamriel Trade Center nor ZeniMax Online Studios, and Tamriel Trade Center nor ZeniMax Online Studios is not responsible for any of the content on, or the privacy policy of this site.
+This script was created using content and materials from Tamriel Trade Center © 2015 by Steven Chen. I am not affiliated with Tamriel Trade Center, and Tamriel Trade Center is not responsible for any of the content on, or the privacy policy of this site.
