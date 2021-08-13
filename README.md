@@ -7,6 +7,20 @@ NOTE: to run the script. "cd" to the script directory ex. cd ~/Downloads and do 
 NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04. it might work on other distro's as long as the "Terminal/Console" supports running Bash scripts.
 
 
+QUICK LINKS:
+
+TTC Script that updates PriceTable every 5 mins until the script is terminated manually by the user.
+> https://github.com/MissAphonic/Linux-Tamriel-Trade-Center/releases/tag/V2
+
+
+TTC Script that updates the PriceTable and closes the script after it has been executed.
+> https://github.com/MissAphonic/Linux-Tamriel-Trade-Center/releases/tag/V2-O
+
+
+
+
+
+
 © 2021 by APHONIC. All rights reserved
 
 This script was created using content and materials from Tamriel Trade Center © 2015 by Steven Chen All rights reserved and The Elder Scrolls® Online: Tamriel Unlimited™ © ZeniMax® Online Studios, LLC or its licensors. I am not affiliated with Tamriel Trade Center nor ZeniMax Online Studios, and Tamriel Trade Center nor ZeniMax Online Studios is not responsible for any of the content on, or the privacy policy of this site.
