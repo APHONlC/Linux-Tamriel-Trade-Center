@@ -4,7 +4,7 @@ Tamriel Trade Center for Linux without the need to run TTC "Client.exe" on "Wine
 NOTE: This does not update your "own" guild listings. you need to either run the "Client.exe" or manually upload your data using the TTC Web Client https://us.tamrieltradecentre.com/pc/Trade/WebClient
 
 NOTE: to run the script. "cd" to the script directory ex. cd ~/Downloads and do bash ./script.sh
-NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04. it might work on other distro's as long as the "Terminal/Console" can run Bash scripts.
+NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04. it might work on other distro's as long as the "Terminal/Console" supports running Bash scripts.
 
 
 © 2021 by APHONIC. All rights reserved
