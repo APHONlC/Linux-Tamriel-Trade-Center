@@ -9,7 +9,7 @@ NOTE: you still need to download the TTC addon and extract it on the correct fol
 
 NOTE: there will be 2 versions of the script to choose from and from those 2 versions there will be "multiple" sub-versions for different locations. these "multiple" sub-versions of the script will use the "default" locations of different programs ex. PortProton,Lutris,Wine,Linux Steam, Wine Steam, Flatpak Steam etc... in order for the script to function please make sure you are using the default directories.
 
-NOTE: for now I only created 2 sub versions for "Linux Steam" and "PortProton". feel free to contact me if you want my script working on whatever client you run the game from or if you have different directories aside from the ones I provided.
+NOTE: for now I only created 2 sub versions for "Linux Steam" and "PortProton".
 
 NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04. it might work on other distro's as long as the "Terminal/Console" supports running Bash scripts.
 
