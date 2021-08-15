@@ -24,6 +24,14 @@ Default "PortProton" Directory
 WHY DONT YOU MAKE IT SO THAT IT ALSO UPLOADS YOUR OWN DATA?
 > because I don't have a way to authenticate and upload "TamrielTradeCentrePrice" data to update your "own" guild listings on the TTC website without the need for the "exe" file or the Web Version which I have no Idea how their code works nor have access to the TTC servers where data are stored and synced on the website.
 
+All the scripts are scanned using [VirusTotal](https://www.virustotal.com/gui/home/upload).
+
+Scan Results for [TTCO-LINUX-STEAM-V2.sh](https://www.virustotal.com/gui/file/ab8e2998f51d9092eabb7f2ee833334bee35835418a798964d7dd0dfd1d09f42/detection).
+Scan Results for [TTCO-PORTPROTON-V2.sh](https://www.virustotal.com/gui/file/9e9d56f4ba75054a2ca2ec846a04da0caf7f54f0603ffd067fc9b78f7076c661/detection).
+Scan Results for [TTCLO-LINUX-STEAM-V2.sh](https://www.virustotal.com/gui/file/f8072e123ff48e4a8feb70ad44dd5386c477829fe84ec71f7fdfc09bcbe07260/detection).
+Scan Results for [TTCLO-PORTPROTON-V2.sh](https://www.virustotal.com/gui/file/fc553d6593139294b9bd472b1127df1d2d913cfd4bd0434b6e44661ed359bf56/detection).
+
+> Feel free to re-scan them yourselves.
 
 © 2021 by APHONIC. All rights reserved
 
