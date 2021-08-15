@@ -3,7 +3,7 @@ echo =======APH-TECH======== &&
 echo Initializing.... &&
 echo ===================== &&
 cd ~/Downloads &&
-echo Welcome Master! &&
+echo Loading Script... &&
 echo ===================== &&
 echo Downloading Requested File.... &&
 echo ===================== &&
