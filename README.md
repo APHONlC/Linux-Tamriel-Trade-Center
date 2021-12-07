@@ -11,7 +11,7 @@ NOTE: there will be 2 versions of the script to choose from and from those 2 ver
 
 NOTE: for now I only created 2 sub versions for "Linux Steam" and "PortProton".
 
-NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04/FEDORA 35 SILVERBLUE. it might work on other distro's as long as the "Terminal/Console" supports running Bash scripts.
+NOTE: the script is a bash script and was only tested on POP!_OS 21.04/Ubuntu 21.04/Fedora 35 Silverblue. it might work on other distro's as long as the "Terminal/Console" supports running Bash scripts.
 
 
 Default "Linux Steam" Directory
