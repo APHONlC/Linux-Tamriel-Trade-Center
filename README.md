@@ -20,6 +20,12 @@ Default "Linux Steam" Directory
 Default "PortProton" Directory
 > "/home/$USER/PortWINE/PortProton/drive_c/users/steamuser/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre"
 
+Default "Flatpak-Steam" Directory
+> "/home/$USER/.var/app/com.valvesoftware.Steam/.steam/root/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/"
+
+Default "Lutris" Directory
+> "/home/$USER/Games/Elder Scrolls Online/drive_c/users/user/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/"
+
 
 All the scripts are scanned using [VirusTotal](https://www.virustotal.com/gui/home/upload).
 
