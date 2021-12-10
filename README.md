@@ -23,6 +23,10 @@ Default "PortProton" Directory
 Default "Flatpak-Steam" Directory
 > "/home/$USER/.var/app/com.valvesoftware.Steam/.steam/root/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/"
 
+- (This assumes you installed Steam Flatpak on the user and not system wide.)
+- Depending on your system and installation mode. you might need to change "/.var/app/" to "/var/lib/flatpak/app/"
+
+
 Default "Lutris" Directory
 > "/home/$USER/Games/Elder Scrolls Online/drive_c/users/user/My Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/"
 
